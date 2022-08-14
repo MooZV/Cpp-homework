@@ -1,0 +1,4 @@
+/home/lw/devtools/clion-2022.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/lw/devtools/clion-2022.2/bin/ninja/linux/ninja -G Ninja -S /media/lw/50D62F7AD62F5F88/GitHub项目/C++Demo/project2/code -B /media/lw/50D62F7AD62F5F88/GitHub项目/C++Demo/project2/code/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/lw/50D62F7AD62F5F88/GitHub项目/C++Demo/project2/code/cmake-build-debug

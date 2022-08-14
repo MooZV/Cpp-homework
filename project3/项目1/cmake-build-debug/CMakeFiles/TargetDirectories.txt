@@ -1,0 +1,3 @@
+/home/lw/code/project3/code/项目1/cmake-build-debug/CMakeFiles/project3.dir
+/home/lw/code/project3/code/项目1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lw/code/project3/code/项目1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
